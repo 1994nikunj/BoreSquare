@@ -1,0 +1,63 @@
+body {
+	background-color: #7F7B9C;
+}
+
+.App {
+	text-align: center;
+}
+
+.App-header {
+	background-image: linear-gradient(to bottom, #514E67, #7F7B9C);
+	height: 340px;
+	padding: 10px;
+	color: #222;
+}
+
+.App-logo {
+	height: 150px;
+	margin: 5px;
+}
+
+.App-title {
+	font-size: 2.5em;
+	font-weight: bold;
+	color: rgb(237, 237, 237);
+}
+
+.not-found-logo {
+	height: 300px;
+}
+
+.load-button {
+	margin: 10px;
+	padding: 10px;
+	width: 530px;
+	height: 40px;
+	border-radius: 30px;
+	cursor: pointer;
+	border: none;
+	font-size: 1.2em;
+	color: #150941;
+	background-color: #9763F7;
+	box-shadow: 0px 0px 10px #0000007e;
+	transition: all 0.2s ease-in-out;
+}
+
+.load-button:hover {
+	border: none;
+	color: #150941;
+	background-color: #64A137;
+	box-shadow: 0px 0px 30px #000000;
+}
+
+.scroll-button {
+	position: fixed;
+	color: #fff;
+	border-radius: 50%;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	transition: all 0.2s ease-in-out;
+}
+
+.scroll-button:hover {
+	box-shadow: 0 0 20px rgb(0, 0, 0);
+}
