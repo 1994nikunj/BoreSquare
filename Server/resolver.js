@@ -2,7 +2,7 @@ import axios from 'axios';
 import { nanoid } from 'nanoid';
 
 const BASE_URL = 'https://api.foursquare.com/v3/places'
-const API_KEY = 'fsq3Ot521fuPd524mogYaRcMxFMRw+zBKR9pYZd7aKZOmx0=';
+const API_KEY = 'YOUR KEY HERE';
 
 const cursorMap = new Map();
 
