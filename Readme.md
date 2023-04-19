@@ -1,4 +1,4 @@
-BoreSquare: A simple game made with NodeJS
+BoreSquare: A simple game made with ReactJS
 =========================================
 
 # Introduction
